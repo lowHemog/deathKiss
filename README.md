@@ -1,4 +1,4 @@
-# Death kiss
+# D3ath.K1ss
 
 Virus que destrói por completo o pc da vitima.
 ## Funções:
